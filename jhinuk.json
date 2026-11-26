@@ -1,5 +1,6 @@
 { 
   "AppHomeUrl": "https://vco.wuaze.com",
+  "update_type": "mandatory",
   "versionCode": 41,
   "downloadUrl": "https://vco.wuaze.com/app/load/jhinuk/",
   "notes": " v4.1 latest updated  "
